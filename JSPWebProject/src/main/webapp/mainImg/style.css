@@ -1,0 +1,19 @@
+.image-container {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	height: 300px;
+}
+
+.image-container img {
+	width: 400px;
+	height: 300px;
+	object-fit: cover;
+	margin-bottom: 10px;
+}
+
+.image-container p {
+	font-size: 24px;
+	font-weight: bold;
+}
