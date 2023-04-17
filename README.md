@@ -1,5 +1,6 @@
 # project_JSP_Login_Board
-로그인 기능과 게시판 기능이 구현된 JSP 프로젝트 입니다.
+### 로그인 기능과 게시판 기능이 구현된 JSP 프로젝트 입니다.  
+### tailwindcss로 꾸며봤습니다.
 ![스크린샷(203)](https://user-images.githubusercontent.com/121912367/232446510-31503e0f-6ec7-4be0-b388-7c692ce5c7c0.png)
 ![스크린샷(204)](https://user-images.githubusercontent.com/121912367/232446541-c5cac88d-d074-47af-85a4-0d290e66c171.png)
 ![스크린샷(205)](https://user-images.githubusercontent.com/121912367/232446560-9d1028b2-facd-421b-a8ac-b093016cf9ba.png)
